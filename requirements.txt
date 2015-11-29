@@ -1,0 +1,2 @@
+django<1.7.7
+django-extensions<1.5.2
